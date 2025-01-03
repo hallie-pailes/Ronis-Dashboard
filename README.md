@@ -1,6 +1,6 @@
 
 # Ronis Dashboard
-Ronis Dashboard is an interactive data analysis and visualization dashboard built with Streamlit. It provides insights into order trends for a restaurant over the months of April through October 2024. This dashboard allows users to explore total orders, popular menu items, orders by day of the week, and hourly order trends, offering valuable insights into the restaurant's operations.
+Ronis Dashboard is an interactive data analysis and visualization dashboard built with Streamlit. It provides insights into order trends for a restaurant, Roni's Mac Bar, over the months of April through October 2024. This dashboard allows users to explore total orders, popular menu items, orders by day of the week, and hourly order trends, offering valuable insights into the restaurant's operations.
 
 # Features
 - Monthly Sales Overview: View total orders for each month from April to October.
