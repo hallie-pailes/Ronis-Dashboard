@@ -22,5 +22,5 @@ After starting the app, you will be able to interact with the dashboard through 
 - Monthly KPI: Track the change in orders between the selected month and the previous one, displayed as both a count and percentage change.
 
 # Tech Stack
-Python Libraries: Streamlit, Plotly, Pandas, NumPy
-Data Source: CSV files (April–October 2024)
+- Python Libraries: Streamlit, Plotly, Pandas, NumPy
+- Data Source: CSV files (April–October 2024)
