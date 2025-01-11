@@ -20,3 +20,7 @@ After starting the app, you will be able to interact with the dashboard through 
 - Orders by Hour: View the number of orders for each hour of the day.
 - Most Popular Items: Check out the top 5 most popular menu items for the selected month.
 - Monthly KPI: Track the change in orders between the selected month and the previous one, displayed as both a count and percentage change.
+
+# Tech Stack
+Python Libraries: Streamlit, Plotly, Pandas, NumPy
+Data Source: CSV files (April–October 2024)
